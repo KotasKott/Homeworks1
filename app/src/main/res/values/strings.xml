@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UCrop</string>
+    <string name="header_name">uCrop</string>
+    <string name="button_one_name">Pick&amp;Crop</string>
+    <string name="button_two_name">Crop random image</string>
+    <string name="checjbox_freestyle_crop">Freestyle crop</string>
+    <string name="aspect_ratio_1">Dynamic</string>
+    <string name="aspect_ratio_2">Image source</string>
+    <string name="aspect_ratio_3">Square</string>
+    <string name="header_aspect_ratio">Aspect ratio</string>
+    <string name="header_image_size">Max cropped image size</string>
+    <string name="checkbox_resize_image">Resize image to max size</string>
+    <string name="header_compression_settings">Compression settings</string>
+    <string name="radiobutton_compression_1">JPEG</string>
+    <string name="radiobutton_compression_2">PNG</string>
+</resources>
